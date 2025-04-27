@@ -6,7 +6,7 @@ nlp = spacy.load("tr_core_news_lg")
 # Örnek bir Türkçe metin
 text = """
 Türkiye'nin başkenti Ankara'dır. İstanbul, tarihi ve kültürel zenginlikleriyle ünlüdür.
-Ahmet, 15 Nisan 2025'te İzmir'de bir konferansa katılacak. Halil kardeş, yüksek lisansına dikkat et.
+Ahmet, 15 Nisan 2025'te İzmir'de bir konferansa katılacak.
 """
 
 # Metni işle
